@@ -3,7 +3,7 @@ Plover has many symbols and punctuations defined by default in `main.json`. Whil
 
 | | PDF | PNG |
 |-|-------|-------------|
-|Color| [Color PDF](symbols_color.pdf) | [Color PNG](symbols_BW.pdf) |
+|Color| [Color PDF](symbols_color.pdf) | [Color PNG](symbols_color.png) |
 |Black and white| [BW PDF](symbols_BW.pdf) | [BW PNG](symbols_BW.png) |
 
 You may also find the [DOCX source here.](source/symbols.docx)
