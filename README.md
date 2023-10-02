@@ -8,7 +8,7 @@ Plover has many symbols and punctuations defined by default in `main.json`. Whil
 |Color| [Color PDF](symbols_color.pdf) | [Color PNG](symbols_color.png) |
 |Black and white| [BW PDF](symbols_BW.pdf) | [BW PNG](symbols_BW.png) |
 
-You may also find the [DOCX source here.](source/symbols.docx)
+The raw [DOCX source is here.](source/symbols.docx) If you edit it, take advantage of the `sym`, `stk`, and `cmd` styles to make custimization easy.
 
 ## Previews
 
